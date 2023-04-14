@@ -1,2 +1,2 @@
-# MERN-MINI
-mini mern  project to learn 
+# NODE API
+TO LEARN  FUNCTIONALITIES
